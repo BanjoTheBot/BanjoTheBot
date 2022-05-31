@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @BanjoTheBot
 - 👀 I’m interested in Anime, Rhythm Games, Manga and Game Development/Design
-- 🌱 I’m currently learning something
-- 💞️ I’m looking to collaborate on something
+- 🌱 I’m currently learning Python
 - 📫 How to reach me Reddit (same name) Discord (Banjo#9915)
 
 <!---
